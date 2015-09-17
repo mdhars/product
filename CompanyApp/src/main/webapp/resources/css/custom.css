@@ -1,0 +1,14 @@
+// typeahead style
+#autocomplete .tt-dropdown-menu {
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+.modal-500px {
+    width: 500px;
+  }
+  
+.active {
+  color: #fff;
+  background-color: #080808;
+  }
